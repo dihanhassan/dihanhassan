@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dihanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="dihanhassan" /> </p>
 
-- 🌱 I’m currently learning **C++,Java,Python**
+- 🌱 I’m currently learning **.Net Core MVC**
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **it19046@mbstu.ac.bd**
+- 📫 How to reach me **shihab19046@mbstu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
