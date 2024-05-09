@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **shihab19046@mbstu.ac.bd**
+- 📫 How to reach me **shihab19046gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
