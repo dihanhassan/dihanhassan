@@ -56,12 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihanhassan&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/dihanhassan/dihanhassan/raw/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
