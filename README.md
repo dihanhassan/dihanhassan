@@ -122,7 +122,8 @@
 
 ### 🖼️ Fun Visualization
 
-![Snake eating commits](https://github.com/dihanhassan/dihanhassan/raw/output/snake.svg)
+![Snake eating commits](https://github.com/dihanhassan/dihanhassan/raw/output/snake_.svg)
+
 
 
 
