@@ -120,13 +120,4 @@
 
 ---
 
-### 🖼️ Fun Visualization
 
-![Snake eating commits](https://github.com/dihanhassan/dihanhassan/raw/output/snake_.svg)
-
-
-
-
----
-
-**⭐️ Show some love by starring my repositories!**
