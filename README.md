@@ -1,31 +1,129 @@
 <h1 align="center">Hi 👋, I'm Shihab</h1>
-<h3 align="center">A passionate Competitive programmer.</h3>
+<h3 align="center">A Passionate Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dihanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="dihanhassan" /> </p>
-
-- 🌱 I’m currently learning **.Net Core MVC**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **shihab19046gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atahar-islam-78097a1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atahar-islam-78097a1ab" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20122691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20122691" height="30" width="40" /></a>
-<a href="https://fb.com/sady.dihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sady.dihan" height="30" width="40" /></a>
-<a href="https://instagram.com/sady.dihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sady.dihan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atahar islam shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atahar islam shihab" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shihab_46" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shihab_46" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shihab_mbstu16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shihab_mbstu16" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shihab_mbstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shihab_mbstu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dihanhassan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dihanhassan21" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ataharislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ataharislam" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dihanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dihanhassan?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dihanhassan?style=social" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dihanhassan&show_icons=true&locale=en&layout=compact" alt="dihanhassan" /></p>
+### 👨‍💻 About Me
 
+- 🌱 I’m currently learning **.NET Core MVC**  
+- 💬 Ask me about **C++** or **Data Structures & Algorithms**  
+- 🎯 My Goal: **To become a world-class software engineer**  
+- ⚡ Fun fact: **I love solving logic puzzles and playing chess.**  
+- 📫 Reach me at **shihab19046@gmail.com**
 
+---
+
+### 🏆 Achievements
+
+- 🥇 **Top 10%** on Codeforces in contests.
+- 🏅 **500+ Problems Solved** across CodeChef, HackerRank, and LeetCode.
+- 🎖️ 5-Star Coder on CodeChef.
+- 🚀 Built a dynamic Android app for student management.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/atahar-islam-78097a1ab" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/20122691" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-%23F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://fb.com/sady.dihan" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sady.dihan" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/shihab_46" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/shihab_mbstu16" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-%2329B463?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/shihab_mbstu" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/dihanhassan21" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Languages and Tools
+
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dihanhassan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihanhassan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 My Competitive Programming Profiles
+
+- [Codeforces](https://codeforces.com/profile/shihab_mbstu)  
+- [CodeChef](https://www.codechef.com/users/shihab_46)  
+- [HackerRank](https://www.hackerrank.com/shihab_mbstu16)  
+- [LeetCode](https://leetcode.com/dihanhassan21)
+
+---
+
+### 🚀 Featured Projects
+
+1. **[Student Management Android App](#)**  
+   - Built a dynamic app for managing student information.
+   - Integrated Firebase for real-time updates.
+
+2. **[Competitive Programming Visualizer](#)**  
+   - A tool to visualize algorithms and data structures in action.
+   - Written in C++ with OpenGL.
+
+---
+
+### 🖼️ Fun Visualization
+
+![Snake eating commits](https://github.com/dihanhassan/dihanhassan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**⭐️ Show some love by starring my repositories!**
