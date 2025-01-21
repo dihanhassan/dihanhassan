@@ -17,7 +17,7 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/atahar-islam-78097a1ab" target="_blank">
+  <a href="https://linkedin.com/in/atahar9" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/20122691" target="_blank">
